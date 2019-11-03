@@ -1,0 +1,12 @@
+version: "3.4"
+
+services:
+  web:
+    container_name: REACT_DEV_CONTAINER
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports: 
+      - 3000:3000
+    volumes:
+        - ./src:/usr/src/app/src
