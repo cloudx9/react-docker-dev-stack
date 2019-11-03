@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![Hero Image](https://github.com/cloudx9/react-docker-dev-stack/blob/master/hero.png?raw=true)
 
 
-## get started
+## Get started
 
 1- install `docker` from [Docker Desktop](https://www.docker.com/products/docker-desktop)
 
