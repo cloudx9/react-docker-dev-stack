@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 4- start playing around in folder `./src` all updates should directly update the containerized app and visible on the browser
 
-## Exaplined
+## Explained
 
 this is based on node image version (12)
 all node modules should be running fine inside the container (no need to install the node on the host machine)
