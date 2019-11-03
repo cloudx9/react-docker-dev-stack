@@ -1,6 +1,6 @@
 # Vanilla Create React App with docker stack for development
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). & (Docker)[https://www.docker.com]
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). & [Docker](https://www.docker.com)
 
 ## get started
 
