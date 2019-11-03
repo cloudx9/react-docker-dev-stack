@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 2- make sure `docker -v && docker-compose -v` running with no issues
 
-3- inside the project directory run ` docker-compose up --build `  wait for couple mintues then the development server should be running in your machine visit (http://localhost:3000)[http://localhost:3000] to check
+3- inside the project directory run ` docker-compose up --build `  wait for couple mintues then the development server should be running in your machine visit ( http://localhost:3000 ) to check
 
 4- start playing around in folder `./src` all updates should directly update the containerized app and visible on the browser
 
